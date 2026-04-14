@@ -1,4 +1,4 @@
-# Terminal Wordle
+# wordle2
 
 Basically Wordle but in a POSIX terminal!
 
