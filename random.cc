@@ -19,5 +19,4 @@ std::string getRandomWord()
 	for (; wordlist[wordlist_size]; ++wordlist_size) { }
 	// Return random word.
 	return wordlist[getRandomNumber(0, wordlist_size)];
-	// return "TANTS";
 }
